@@ -28,5 +28,5 @@ void Input_Data(float & berat, float & tinggi){
 }
 
 int main(){
-    
+    float berat, tinggi, BMI;
 }
